@@ -8,7 +8,7 @@
   "server": {
     "ip": "Manhuntkaregaa.aternos.me",
     "port": 17617,
-    "version": "26.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
